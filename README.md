@@ -4,13 +4,13 @@
 Data-driven planning for merger and acquisition. (INSEAD Case Study)
 
 ## Context:
-During the process of merger and acquisition of a company, the headcount of employees in the company being merged may need to be reduced. To meet regulatory requirements and ensure compliance severance package agreements are given to employees. The aim is to objectively categorise employees into groups, without discrimination, and determine which groups to offer RCC to, but at the same time minimise cost of severance.
+During the process of merger and acquisition of a company, the headcount of employees in the company being merged may need to be reduced. To meet regulatory requirements and ensure compliance severance package agreements are given to employees. The aim is to objectively categorise employees into groups, without discrimination, and determine which groups to offer severance to, but at the same time minimise cost of severance.
 
 ## Process:
 This was done in two stages.
 
 Stage 1:
-- Identifying the factors that determine whether an employee accepts an RCC
+- Identifying the factors that determine whether an employee accepts a severance
 - Modelling the probabilty of an employee accepting a severance, if offered; using Logistic Regression, CART, Random Forest, Gradient Boost. Employed PCA for feature selection.
 
 Stage 2: 
