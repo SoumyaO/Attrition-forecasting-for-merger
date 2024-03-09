@@ -1,5 +1,5 @@
 # Attrition Forecasting for Merger and Acquisition (Individual work)
-[Code](https://github.com/SoumyaO/Attrition-forecasting-for-merger/OgotiSoumyaSMM750.ipynb) |
+[Code](https://github.com/SoumyaO/Attrition-forecasting-for-merger/blob/main/OgotiSoumyaSMM750.ipynb)
 
 Data-driven planning for merger and acquisition. (INSEAD Case Study)
 
