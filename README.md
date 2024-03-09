@@ -14,5 +14,5 @@ Stage 1:
 - Modelling the probabilty of an employee accepting a severance, if offered; using Logistic Regression, CART, Random Forest, Gradient Boost. Employed PCA for feature selection.
 
 Stage 2: 
-- Using the above determined factors, formed groups of employeed objectively without discrimination (gender, age etc.)
+- Using the above determined factors, formed groups of employees objectively without discrimination (gender, age etc.)
 - Using Linear Programming in Microsoft Excel Solver, determined which groups to offer severance to, considering the constraints involved such as avoiding mass exodus, stable empoyee proportion in each department, savings etc.
