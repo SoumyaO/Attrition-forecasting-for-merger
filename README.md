@@ -15,4 +15,4 @@ Stage 1:
 
 Stage 2: 
 - Using the above determined factors, formed groups of employees objectively without discrimination (gender, age etc.)
-- Using Linear Programming in Microsoft Excel Solver, determined which groups to offer severance to, considering the constraints involved such as avoiding mass exodus, stable empoyee proportion in each department, savings etc.
+- Using Linear Programming in Microsoft Excel Solver, determined which groups to offer severance to, considering the constraints involved such as avoiding mass exodus, stable empoyee proportion in each department, savings etc. The objective was to minimise the cost in total severance.
