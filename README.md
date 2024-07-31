@@ -11,8 +11,14 @@ This was done in two stages.
 
 Stage 1:
 - Identifying the factors that determine whether an employee accepts a severance
-- Modelling the probabilty of an employee accepting a severance, if offered; using Logistic Regression, CART, Random Forest, Gradient Boost. Employed PCA for feature selection.
+- Modelling the probabilty of an employee accepting a severance, if offered; using Logistic Regression, Decision Tree, Random Forest, Gradient Boost. Employed PCA for feature selection.
 
 Stage 2: 
-- Using the above determined factors, formed groups of employees objectively without discrimination (gender, age etc.)
+- Using the above determined factors, formed groups of employees objectively without discrimination (gender, age etc.) - Employee groups were based on job level first and then job satisfaction on the lower job levels.
 - Using Linear Programming in Microsoft Excel Solver, determined which groups to offer severance to, considering the constraints involved such as avoiding mass exodus, stable empoyee proportion in each department, savings etc. The objective was to minimise the cost in total severance.
+
+## Key Results:
+### Attrition Modelling: 
+- The Logistic Regression model with an AUC of 89.02 was the best model.
+- Top five factors with high coefficient were OverTime, BusinessTravel, YearsSinceLastPromotion, JobRole - (Sales Representative Lab Technician), JobLevel.
+- The bottom five factors in accepting an RCC are Marital Status (divorced), Education field (Life Sciences), Department(Research and Development), Marital status (Married) , Job role( Health care representative).
